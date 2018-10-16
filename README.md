@@ -4,6 +4,9 @@
 
 ![](qr.png)
 
+
+[中文官方传送门资料](https://cn.vuejs.org/)
+
 ## Vue入门
 
 ### 环境安装
@@ -24,10 +27,18 @@ element-ui： http://element-cn.eleme.io/#/zh-CN/component/installation
 
 推荐： https://segmentfault.com/a/1190000011275993 原因： 也是一下子就可以看到结果
 
+### vue路由
+
+
 ## vue高级
 
 ### webpack入门
 推荐： https://www.jianshu.com/p/6712e4e4b8fe  
 
 原因：极度详细，照着做就行
+
+### vuex
+
+
+
 
