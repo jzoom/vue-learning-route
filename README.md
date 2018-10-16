@@ -2,6 +2,8 @@
 
 <a target="_blank" href="https://shang.qq.com/wpa/qunwpa?idkey=e2e26bca44bf0e16e015cc489cbb28439bb453d5447098c64d0a159ef8bdbcb1"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="vue交流群" title="vue交流群"></a>
 
+![](qr.png)
+
 ## Vue入门
 
 ### 环境安装
